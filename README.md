@@ -15,5 +15,5 @@ git clone --depth=1 https://github.com/Tech-Michael112/Instagram-Create
 cd Instagram-Create
 git pull
 
-python Instagram-Create.py
+python create.py
 
